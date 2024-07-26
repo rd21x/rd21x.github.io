@@ -263,22 +263,92 @@ As well as being situated within data centres, many mining solutions can also be
 
 ## The Opportunity: New Zealand as a Global Leader in Renewable Energy-Powered Data Centres
 
-*This section will describe New Zealand’s strategic advantages and the potential benefits of becoming a global leader in renewable energy-powered data centres.*
+### New Zealand’s Strategic Advantages for Data Centre Operations
+
+New Zealand possesses several strategic advantages that make it an ideal location for establishing renewable energy-powered data centres. These advantages include:
+
+- **Abundant Renewable Energy Resources**: New Zealand has significant renewable energy resources, including hydroelectric, geothermal, wind, and solar power. This abundant supply of clean energy positions New Zealand as a sustainable and attractive location for energy-intensive data centre operations.
+- **Stable Political and Economic Environment**: New Zealand’s stable political climate, strong regulatory framework, and robust economy provide a secure environment for investment in data centre infrastructure.
+- **Low Geopolitical Risks**: New Zealand’s geographical isolation and low geopolitical risks make it a safe and reliable location for hosting sensitive data and critical infrastructure.
+- **Technological Advancement and Innovation**: New Zealand has a growing technology sector and a strong culture of innovation, providing a supportive ecosystem for the development and operation of advanced data centres.
+- **Skilled Workforce**: New Zealand has a highly skilled workforce capable of supporting the construction, operation, and maintenance of state-of-the-art data centre facilities.
+
+### The Benefits: What New Zealand Gains from Becoming a Global Leader in Renewable Energy-Powered Data Centres
+
+Becoming a global leader in renewable energy-powered data centres offers several benefits for New Zealand, including:
+
+- **Economic Growth and Job Creation**: Establishing data centres will generate significant economic activity, creating jobs in construction, operations, and maintenance. It will also stimulate growth in related industries such as technology, telecommunications, and professional services.
+- **Energy Security and Efficiency**: Integrating data centres with renewable energy sources will enhance New Zealand’s energy security by providing a stable and reliable demand for renewable energy, reducing reliance on fossil fuels, and improving grid efficiency through demand response and load balancing.
+- **Environmental Sustainability**: Renewable energy-powered data centres align with New Zealand’s commitment to sustainability and reducing carbon emissions. This will enhance New Zealand’s global reputation as a leader in environmental stewardship.
+- **Data Sovereignty and Security**: Hosting data centres locally ensures that data is subject to New Zealand’s robust privacy and security regulations, enhancing data sovereignty and protecting sensitive information from foreign jurisdictional risks.
+- **Technological Leadership**: By leading in renewable energy-powered data centres, New Zealand can position itself at the forefront of technological innovation, attracting global tech companies and fostering a thriving tech ecosystem.
 
 ## Recommendations and Actions
 
 ### Private Sector
 
-*This section will outline recommendations for the private sector to drive New Zealand’s leadership in AI and renewable energy.*
+1. **Investment in Renewable Energy Projects**: Private sector companies should invest in renewable energy projects to ensure a stable and sustainable energy supply for data centres. This includes exploring partnerships with energy companies for large Power Purchase Agreements (PPAs) and demand response programs.
+2. **Development of Advanced Data Centres**: Companies should focus on developing state-of-the-art data centres that leverage New Zealand’s renewable energy resources. This includes adopting energy-efficient technologies and modular designs to enhance scalability and flexibility.
+3. **Collaboration and Partnerships**: Foster collaborations between tech companies, energy providers, and research institutions to drive innovation and share best practices in renewable energy and data centre operations.
+4. **Talent Development and Training**: Invest in talent development and training programs to build a skilled workforce capable of supporting the advanced technological needs of data centres.
 
 ### Government-Led Initiatives
 
-*This section will outline recommendations for government-led initiatives to support and enhance New Zealand’s position in the AI and renewable energy landscape.*
+1. **Policy and Regulatory Support**: The government should create a supportive policy and regulatory framework that incentivises investment in renewable energy and data centre infrastructure. This includes providing tax incentives, grants, and streamlined permitting processes.
+2. **Infrastructure Development**: Invest in the development of critical infrastructure, such as high-speed internet connectivity and reliable energy grids, to support the operation of data centres.
+3. **Public-Private Partnerships**: Encourage public-private partnerships to leverage private sector expertise and resources in developing renewable energy projects and data centre facilities.
+4. **Research and Innovation Funding**: Provide funding for research and innovation in renewable energy technologies and data centre operations to drive continuous improvement and maintain a competitive edge.
 
 ## Conclusion
 
-*This section will summarise the key points and strategic recommendations of the thesis.*
+New Zealand stands at the cusp of a transformative opportunity to become a global leader in renewable energy-powered data centres. By leveraging its abundant renewable energy resources, stable political and economic environment, and culture of innovation, New Zealand can drive significant economic growth, enhance energy security, and position itself at the forefront of technological advancement. Strategic investments and collaborative efforts between the private sector and government are crucial to realising this potential and ensuring a sustainable and prosperous future for New Zealand.
 
 ## References
 
-*This section will list all the references cited in the thesis.*
+1. https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html
+2. https://www.reuters.com/technology/artificial-intelligence-hitting-labour-forces-like-tsunami-imf-chief-2024-05-13/
+3. https://www3.weforum.org/docs/WEF_Future_of_Jobs_2023.pdf
+4. https://www.wsj.com/business/energy-oil/big-techs-latest-obsession-is-finding-enough-energy-f00055b2
+5. http://www.ippr.org/articles/transformed-by-ai
+6. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
+7. https://www.mbie.govt.nz/dmsdocument/28309-labour-market-statistics-snapshot-march-2024-pdf
+8. https://ssrn.com/abstract=4573321
+9. https://www.journalofdemocracy.org/articles/ais-economic-peril/
+10. https://www.rnz.co.nz/news/national/513882/gcsb-centre-considers-us-finding-that-microsoft-cascade-of-errors-allowed-chinese-hack
+11. https://www.tradingview.com/markets/world-stocks/worlds-largest-companies/
+12. https://www.stats.govt.nz/indicators/gross-domestic-product-gdp/
+13. https://www.stats.govt.nz/information-releases/balance-of-payments-and-international-investment-position-december-2023-quarter/
+14. https://aws.amazon.com/compliance/iso-27001-faqs/
+15. Gunasekara, G. (in press (2024)). Data sovereignty and privacy: A chimera or realistic prospect in Aotearoa/New Zealand? New Zealand Universities Law Review.
+16. https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html
+17. https://datacom.com/nz/en/products/data-centres
+18. https://sp.chorus.co.nz/product/edgecentre-colocation/overview
+19. https://businessdesk.co.nz/article/markets/spark-signs-6m-lease-for-waikato-universitys-datacentre
+20. https://azure.microsoft.com/en-us/explore/global-infrastructure/availability-zones
+21. https://aws.amazon.com/vpc/
+22. https://news.microsoft.com/en-nz/2023/03/30/microsoft-expands-its-investment-in-new-zealand/
+23. https://anz-resources.awscloud.com/anz-articles/aws-launches-aws-local-zones-location-in-auckland
+24. https://businessgroup.spark.co.nz/case-studies/auckland-council
+25. https://aws.amazon.com/what-is/iaas/
+26. https://cloud.google.com/appengine?hl=en
+27. https://www.microsoft.com/en-nz/microsoft-365
+28. https://opensource.org/license/mit
+29. https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/sanctions-against-russia-8211-a-timeline-69602559
+30. https://www.reuters.com/technology/microsoft-openai-planning-100-billion-data-center-project-information-reports-2024-03-29/
+31. https://doi.org/10.48550/arXiv.1906.02243
+32. https://ourworldindata.org/global-energy-200-years
+33. https://www.bloomberg.com/news/articles/2024-02-25/ai-increases-data-center-energy-use-google-pioneered-technique-could-help
+34. https://www.businessinsider.com/ai-insatiable-hunger-energy-rene-haas-2024-4
+35. https://iea.blob.core.windows.net/assets/6b2fd954-2017-408e-bf08-952fdd62118a/Electricity2024-Analysisandforecastto2026.pdf
+36. https://www.mbie.govt.nz/assets/energy-in-new-zealand-2023.pdf
+37. https://www.wsj.com/tech/ai/artificial-intelligences-insatiable-energy-needs-not-sustainable-arm-ceo-says-a11218c9
+38. https://www.washingtonpost.com/business/2024/03/07/ai-data-centers-power/
+39. https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0
+40. https://earth.org/cobalt-mining/
+41. https://www.ea.govt.nz/projects/all/pricing-in-a-renewables-based-electricity-system/
+42. https://about.bnef.com/blog/amazon-is-top-green-energy-buyer-in-a-market-dominated-by-us/
+43. https://www.ea.govt.nz/documents/4335/Appendix_A2_-_Final_recommendations_report.pdf
+44. https://www.ena.org.nz/resources/publications/document/170
+45. https://web-assets.bcg.com/b3/79/19665b7f40c8ba52d5b372cf7e6c/the-future-is-electric-full-report-october-2022.pdf
+46. https://assets-global.website-files.com/614e11536f66309636c98688/626c1a0d3ba033b7326745e9_A%20Primer%20On%20Bitcoin%20Mining-Small.pdf
+
